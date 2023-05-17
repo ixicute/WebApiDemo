@@ -14,5 +14,7 @@ Simply add the server-name that you have.
 You won't need to use "add-migration" as there already is a migration file.
 
 # DEMO
-https://github.com/ixicute/WebApiDemo/assets/25350208/66015891-cc32-4d08-bf5a-712db6f78096
+https://github.com/ixicute/WebApiDemo/assets/25350208/8cf97d0c-c0c8-4988-bc07-a62b00aae5f1
+
+
 
